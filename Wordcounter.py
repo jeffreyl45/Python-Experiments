@@ -1,3 +1,4 @@
+# Comment example
 def countWords(theSentence):
     words = 0
     wordStart = False
